@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "name":"free book 1",
+        "title":"lorem ipsum dolor",
+        "price":"0",
+        "category":"free",
+        "image":"../public/bookpic.jpg"
+    },
+    {
+        "id":2,
+        "name":"free book 2",
+        "title":"lorem ipsum dolor",
+        "price":"0",
+        "category":"free",
+        "image":"../public/bookpic.jpg"
+
+    },
+    {
+        "id":3,
+        "name":"free book 3",
+        "title":"lorem ipsum dolor",
+        "price":"0",
+        "category":"free",
+        "image":"../public/bookpic.jpg"
+    },
+    {
+        
+        "id":4,
+        "name":"free book 4",
+        "title":"lorem ipsum dolor",
+        "price":"0",
+        "category":"free",
+        "image":"../public/bookpic.jpg"
+    },
+    {
+        
+        "id":5,
+        "name":"free book 5",
+        "title":"lorem ipsum dolor",
+        "price":"0",
+        "category":"free",
+        "image":"../public/bookpic.jpg"
+    },
+    {
+        
+        "id":6,
+        "name":"free book 6",
+        "title":"lorem ipsum dolor",
+        "price":"0",
+        "category":"free",
+        "image":"../public/bookpic.jpg"
+    },
+    {
+        
+        "id":7,
+        "name":"free book 7",
+        "title":"lorem ipsum dolor",
+        "price":"0",
+        "category":"paid",
+        "image":"../public/bookpic.jpg"
+    }
+    ,
+    {
+        
+        "id":8,
+        "name":"free book 8",
+        "title":"lorem ipsum dolor",
+        "price":"0",
+        "category":"paid",
+        "image":"../public/bookpic.jpg"
+    },
+    {
+        
+        "id":9,
+        "name":"free book 9 ",
+        "title":"lorem ipsum dolor",
+        "price":"0",
+        "category":"paid",
+        "image":"../public/bookpic.jpg"
+    }
+]
